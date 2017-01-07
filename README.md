@@ -1,7 +1,7 @@
 # Social Media Intelligence
 ## The School of Library, Archival and Information Studies (SLAIS)
 ## The University of British Columbia
-
+|||
 |--------|----|
 |Course title:|  Social Media Intelligence|
 |Course Code:| LIBR 559D|
