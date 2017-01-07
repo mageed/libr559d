@@ -15,7 +15,7 @@
 |Office hours:|  Mon., 1:00pm-3:00pm|
 |E-mail address: | muhammad.mageed@ubc.ca|
 |iSchool@UBC Student Portal:| http://connect.ubc.ca|
-
+|--------|----|
 
 ## 1.	Course Rationale & Goal: 
 
