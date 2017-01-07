@@ -139,12 +139,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 
 | Week | Date | Topic | Readings|
 |------|------|-------|----------|
-|1 |Jan 5| Course overview; Intro. to social media systems, types, and use |
-Abdul-Mageed, M. (2016). Social Media Mining: Introduction. Document to be shared with students,
-•	Boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. link,
-•	Social Media Usage: 2005-2015. link,
-•	News Use Across Social Media Platforms 2016. link |  
-
+|1 |Jan 5| Course overview; Intro. to social media systems, types, and use | • Abdul-Mageed, M. (2016). Social Media Mining: Introduction. [Document to be shared with students] •	Boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. [link], •	Social Media Usage: 2005-2015. [link], •	News Use Across Social Media Platforms 2016. [link] |  
 | 2 | Jan 12 | Social publishing|
 •	LB Ch08: The Art & Science of Social Publishing, 
 •	LB Ch09: Managing a Community, 
