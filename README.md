@@ -142,10 +142,6 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 •	Social Media Usage: 2005-2015. [link] 
 News Use Across Social Media Platforms 2016. [link] 
 
-
-
-## XYZXYZXYZXYZ
-
 | Week | Date | Topic | 
 |------|------|-------|
 |1 |Jan 5| Course overview; Intro. to social media systems, types, and use | 
@@ -176,10 +172,10 @@ News Use Across Social Media Platforms 2016. [link]  |
 •	The 15 Best Free Social Media Dashboards and Tools. [link]
 •	The Guardian: How riot rumours spread on Twitter. [link]
 •	Behind the rumours: how we built our Twitter riots interactive. [link]
-| 5 | Feb 2 | Virality and engagement strategies 
 
 | Week | Date | Topic | 
 |------|------|-------|
+| 5 | Feb 2 | Virality and engagement strategies |
 •	KN Ch3, Ch04, Ch05
 •	Essay: 13 Ways to Make Something Go Viral. [link]
 •	The Six Things That Make Stories Go Viral Will Amaze, and Maybe Infuriate, You. [link]
@@ -245,7 +241,7 @@ News Use Across Social Media Platforms 2016. [link]  |
 
 | Week | Date | Topic | 
 |------|------|-------|
-| Apr 8 |  Poster presentations | |
+| 14 | Apr 8 |  Poster presentations |
 
 ## 8. Course Assignments:
 
