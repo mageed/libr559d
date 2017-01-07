@@ -26,57 +26,57 @@ As social networks like Facebook, Twitter, and YouTube continue to play an impor
 
 This course provides a graduate-level introduction to Social Media Intelligence (SMI) and its associated methods. The goal of the course is to create an interactive learning community around the theme of SMI. This includes familiarizing students with the types and use of social media, and providing hands-on experience in managing, analyzing, and mining social data using available tools (e.g., dashboards) and automated methods (e.g., natural language processing and machine learning technologies). We will read, discuss, and critique claims and findings from contemporary research related to SMI. We will also address practical issues related to successfully managing social media platforms, launching marketing campaigns, and using and building tools to analyze and mine social media. 
 
-** Potential audiences for this course include, but are not limited to:** 
+**Potential audiences for this course include, but are not limited to:** 
 
 •	People interested in text analytics, information retrieval, information visualization, human-information interaction, natural language processing, machine learning, etc., who want to prepare for, or significantly advance, carrying out research in these fields.
 •	People interested in practical experience on effective usage, management, analytics, and mining of social media in work places (e.g., libraries, museums, companies).
 
 ## 2.	Course Objectives:  
 
-** Upon completion of this course students will be able to:** 
+**Upon completion of this course students will be able to:** 
 
 •	Understand a wide range of social media usage, management, and mining concepts and tasks and their relevance to the information needs of diverse individuals, communities and organizations. [1.1]
 •	Enhance interpersonal and written communication skills. [2.1]
 •	Collaborate effectively with peers through course assignments. [3.1]
 •	Apply social media marketing, management, and mining methods to address information needs, questions, and issues. [4.1]
 
-** 3.	Course Topics:** 
+**3.	Course Topics:** 
 
-•	Overview of social media types and use and their role;
-•	Running social media systems and campaigns
-•	Social media management
-•	Virality and engagement in social media
-•	Social data crawling and engineering;
-•	Predictive analytics with natural language processing & machine learning;
-•	Practical social media intelligence tasks:
-⎫	Age and gender detection;
-⎫	Sentiment analysis and emotion detection
-⎫	Personality prediction;
-⎫	Sarcasm, humor, and occupational class detection;
+- Overview of social media types and use and their role;
+- Running social media systems and campaigns
+- Social media management
+- Virality and engagement in social media
+- Social data crawling and engineering;
+- Predictive analytics with natural language processing & machine learning;
+- Practical social media intelligence tasks:
+- Age and gender detection;
+*Sentiment analysis and emotion detection*
+*Personality prediction;*
+*Sarcasm, humor, and occupational class detection;*
 
 ##  4.	Prerequisites: 
 
-•	MLIS and Dual MAS/MLIS: Completion of MLIS Core or permission of SLAIS Graduate Advisor 
-•	Access to a computer: There will be machines in the lab where class is held, but you will need to use your own machine or have access to a machine on a regular basis. You should make your own arrangements for this.
+- MLIS and Dual MAS/MLIS: Completion of MLIS Core or permission of SLAIS Graduate Advisor 
+- Access to a computer: There will be machines in the lab where class is held, but you will need to use your own machine or have access to a machine on a regular basis. You should make your own arrangements for this.
 
 ## 5.	Format of the course: 
 
-•	This course will involve lectures, class hands-on activities, individual and group work, and instructor-, peer-, and self-assessment. 
+- This course will involve lectures, class hands-on activities, individual and group work, and instructor-, peer-, and self-assessment. 
 
 ## 6. Course syllabus:
 
-** Books:** 
+**Books:** 
 
 - Buyer, L. (2013). Social PR Secrets: How to Optimize, Socialize, and Publicize Your Brand's News (2nd ed.). ISBN-10: 1938886852, ISBN-13: 978-1938886850. 
 - Nahon, K., & Hemsley, J. (2013). Going viral. Polity. ISBN-10: 0745671284, ISBN-13: 978-0745671284 
 - Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python. O'Reilly Media, Inc. [link]
 
-** Suggested Background Books:** 
+**Suggested Background Books:** 
 
 - Tuten, T. L., & Solomon, M. R. (2014). Social media marketing (2nd ed.). Sage. ISBN-10: 1473913012, ISBN-13: 978-1473913011. 
 - Kawasaki, G., & Fitzpatrick, P. (2014). The Art of Social Media: Power Tips for Power Users. Portfolio. ISBN-10: 1591848075, ISBN-13: 978-1591848073. 
 
-** Articles & Book Chapters:** 
+**Articles & Book Chapters:** 
 
 - Abdul-Mageed, M. (2016). Social Media Mining: Introduction. [Document to be shared with students]
 - Abdul-Mageed, M., & Diab, M. (2012). AWATIF: A multi-genre corpus for Modern Standard Arabic subjectivity and sentiment analysis. Proceedings of LREC, Istanbul, Turkey. [pdf] 
@@ -140,99 +140,66 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 | Week | Date | Topic | Readings|
 |------|------|-------|----------|
 |1 |Jan 5| Course overview; Intro. to social media systems, types, and use |
-- Abdul-Mageed, M. (2016). Social Media Mining: Introduction. [Document to be shared with students],
-- Boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. [link],
-- Social Media Usage: 2005-2015. [link],
-- News Use Across Social Media Platforms 2016. [link] | 
-| 2 | Jan 12 | Social publishing|
-- LB Ch08: The Art & Science of Social Publishing, 
-- LB Ch09: Managing a Community, 
-- LB Ch10: Jump into Any News Story,|
+Abdul-Mageed, M. (2016). Social Media Mining: Introduction. [Document to be shared with students],
+•	Boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. [link],
+•	Social Media Usage: 2005-2015. [link],
+•	News Use Across Social Media Platforms 2016. [link] |  
 
-3
-Jan 19
-Social media marketing
+| 2 | Jan 12 | Social publishing|
+•	LB Ch08: The Art & Science of Social Publishing, 
+•	LB Ch09: Managing a Community, 
+•	LB Ch10: Jump into Any News Story,|
+| 3 | Jan 19 | Social media marketing |
 •	LB Ch11: Distribution, Application, and Promotion 
 •	LB Ch12: The Rise of Visual Reporting 
-•	LB Ch13: Scoring Influence 
-4
-Jan 26
-Social media management
+•	LB Ch13: Scoring Influence |
+| 4 | Jan 26 |Social media management |
 •	The 15 Best Free Social Media Dashboards and Tools Read more. [link] 
 •	9 Social Media Dashboards To Manage Multiple Social Media Profiles. [link]
 •	The 15 Best Free Social Media Dashboards and Tools. [link]
 •	The Guardian: How riot rumours spread on Twitter. [link]
 •	Behind the rumours: how we built our Twitter riots interactive. [link]
-5
-Feb 2
-Virality and engagement strategies
+| 5 | Feb 2 | Virality and engagement strategies |
 •	KN Ch3, Ch04, Ch05
 •	Essay: 13 Ways to Make Something Go Viral. [link]
 •	The Six Things That Make Stories Go Viral Will Amaze, and Maybe Infuriate, You. [link]
 •	Engaging Communities: Content and Conversation. [link] 
 •	What kinds of local stories drive engagement? The results of an NPR Facebook experiment. [link]
-•	Why You Should Share to Social Media in the Afternoon + More of the Latest Social Media Research. [link] 
-6
-Feb 9
-Introduction to social media analytics with NLP
-•	BKL Ch01-Ch04.
-
-Feb 16
-No class 
-7
-Feb 23
-Social data crawling and annotation
+•	Why You Should Share to Social Media in the Afternoon + More of the Latest Social Media Research. [link]  |
+| 6 | Feb 9 | Introduction to social media analytics with NLP |
+•	BKL Ch01-Ch04. |
+| Feb 16 | No class | |
+|7 | Feb 23 | Social data crawling and annotation |
 •	Abdul-Mageed, M., & Diab, M. (2012). AWATIF: A multi-genre corpus for Modern Standard Arabic subjectivity and sentiment analysis. Proceedings of LREC, Istanbul, Turkey. [pdf] 
 •	Abdul-Mageed, M. & Diab, M. (2011). Subjectivity and Sentiment Annotation of Modern Standard Arabic Newswire. Proceedings of the the Fourth Linguistic Annotation Workshop. Portland, Oregon, USA, June 23-24, 2011. [pdf] [bib]  
-•	Polanyi, L., & Zaenen, A. (2006). Contextual valence shifters. Computing attitude and affect in text: Theory and applications, 1-10. [pdf]
-8
-Mar 1
-Predictive analytics I
-•	BKL Ch05.
-9
-Mar 8
-Predictive analytics II
-•	BKL Ch05.
-10
-Mar 15
-Applications I: Age & Gender
+•	Polanyi, L., & Zaenen, A. (2006). Contextual valence shifters. Computing attitude and affect in text: Theory and applications, 1-10. [pdf] |
+| 8 | Mar 1 | Predictive analytics I |
+•	BKL Ch05. |
+| 9 | Mar 8 | Predictive analytics II |
+•	BKL Ch05. |
+| 10 | Mar 15 | Applications I: Age & Gender |
 •	Rangel, F., Rosso, P., Moshe Koppel, M., Stamatatos, E., & Inches, G. (2013). Overview of the author profiling task at PAN 2013. In CLEF Conference on Multilingual and Multimodal Information Access Evaluation (pp. 352-365). CELCT. [pdf]
 •	Burger, J. D., Henderson, J., Kim, G., & Zarrella, G. (2011, July). Discriminating gender on Twitter. In Proceedings of the Conference on Empirical Methods in Natural Language Processing (pp. 1301-1309). Association for Computational Linguistics. [pdf]
 •	Ciot, M., Sonderegger, M., & Ruths, D. (2013). Gender Inference of Twitter Users in Non-English Contexts. In EMNLP (pp. 1136-1145). [pdf]
 •	Bamman, D., Eisenstein, J., & Schnoebelen, T. (2014). Gender identity and lexical variation in social media. Journal of Sociolinguistics, 18(2), 135-160. [Oncourse]
-•	Johannsen, A., Hovy, D., & Sogaard, A. (2015, July). Cross-lingual syntactic variation over age and gender. In Proceedings of CoNLL. [pdf]
-11
-Mar 22
-Applications II:
-Sentiment & Emotion
+•	Johannsen, A., Hovy, D., & Sogaard, A. (2015, July). Cross-lingual syntactic variation over age and gender. In Proceedings of CoNLL. [pdf] |
+| 11 | Mar 22 | Applications II: Sentiment & Emotion |
 •	Pang, Bo and Lillian Lee. 2008. Opinion mining and sentiment analysis. Foundations and Trends in Information Retrieval 2(1): 1-135. (Chapters 4 & 5).
 •	Liu, B. 2009. Sentiment Analysis and Subjectivity. Handbook of Natural Language Processing, Second Edition,(editors: N. Indurkhya and FJ Damerau). 
-•	Saima Aman and Stan Szpakowicz. 2007. Identifying expressions of emotion in text. In Vclav Matouˇsek and Pavel Mautner, editors, Text, Speech and Dialogue, volume 4629 of Lecture Notes in Computer Science, pages 196-205. Springer Berlin / Heidelberg. [pdf]
-12
-Mar 29
-Applications III:
-Personality
+•	Saima Aman and Stan Szpakowicz. 2007. Identifying expressions of emotion in text. In Vclav Matouˇsek and Pavel Mautner, editors, Text, Speech and Dialogue, volume 4629 of Lecture Notes in Computer Science, pages 196-205. Springer Berlin / Heidelberg. [pdf] |
+| 12 | Mar 29 | Applications III: Personality |
 •	Youyou, W., Kosinski, M., & Stillwell, D. (2015). Computer-based personality judgments are more accurate than those made by humans. Proceedings of the National Academy of Sciences, 201418680. [pdf]
 •	Farnadi, G., Sitaraman, G., Rohani, M., Kosinski, M., Stillwell, D., Moens, M. F., ... & De Cock, M. (2014). How are you doing? Emotions and personality in Facebook. In Proceedings of the EMPIRE Workshop of the 22nd International Conference on User Modeling, Adaptation and Personalization (UMAP 2014). [pdf]
-•	Schwartz, H. A., Eichstaedt, J. C., Kern, M. L., Dziurzynski, L., Ramones, S. M., Agrawal, M., ... & Ungar, L. H. (2013). Personality, gender, and age in the language of social media: The open-vocabulary approach. PloS one, 8(9), e73791. [pdf]
-13
-Apr 5
-Applications IV:
-Sarcasm, Humor, & Occupational Class
+•	Schwartz, H. A., Eichstaedt, J. C., Kern, M. L., Dziurzynski, L., Ramones, S. M., Agrawal, M., ... & Ungar, L. H. (2013). Personality, gender, and age in the language of social media: The open-vocabulary approach. PloS one, 8(9), e73791. [pdf] |
+| 13 | Apr 5 | Applications IV: Sarcasm, Humor, & Occupational Class |
 •	Davidov, D., Tsur, O., Rappoport, A. (2010). Semi-supervised recognition of sarcastic sentences in Twitter and Amazon. Proc. of the Fourteenth Conference on Computational Natural Language Learning, pp. 107-116. [pdf]
 •	Gonzalez-Ibanez, R., Muresan, S., & Wacholder, N. (2011). Identifying sarcasm in Twitter: a closer look. Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies: short papers-Volume 2 (pp. 581-586). [pdf]
 •	Bamman, D., & Smith, N. A. (2015, April). Contextualized Sarcasm Detection on Twitter. In Ninth International AAAI Conference on Web and Social Media. [pdf]
 •	Preoţiuc-Pietro, D., Lampos, V., & Aletras, N. (2015). An analysis of the user occupational class through Twitter content. The Association for Computational Linguistics. [pdf] 
 •	Preoţiuc-Pietro, D., Volkova, S., Lampos, V., Bachrach, Y., & Aletras, N. (2015). Studying user income through language, behaviour and affect in social media. PloS one, 10(9), e0138717. [link] 
-•	Liu, L., Preotiuc-Pietro, D., Samani, Z. R., Moghaddam, M. E., & Ungar, L. (2016). Analyzing Personality through Social Media Profile Picture Choice. ICWSM 2016. [pdf] 
+•	Liu, L., Preotiuc-Pietro, D., Samani, Z. R., Moghaddam, M. E., & Ungar, L. (2016). Analyzing Personality through Social Media Profile Picture Choice. ICWSM 2016. [pdf]  |
 
-Apr 8
-Poster presentations
-
-
-
-
-
+| Apr 8 |  Poster presentations | |
 
 ## 8. Course Assignments:
 Assignment
