@@ -146,16 +146,22 @@ News Use Across Social Media Platforms 2016. [link]
 
 ## XYZXYZXYZXYZ
 
-| Week | Date | Topic | Readings|
-|------|------|-------|----------|
-|1 |Jan 5| Course overview; Intro. to social media systems, types, and use | •	Abdul-Mageed, M. (2016). Social Media Mining: Introduction. [Document to be shared with students]
+| Week | Date | Topic | 
+|------|------|-------|
+|1 |Jan 5| Course overview; Intro. to social media systems, types, and use | 
+•	Abdul-Mageed, M. (2016). Social Media Mining: Introduction. [Document to be shared with students]
 •	Boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. [link]
 •	Social Media Usage: 2005-2015. [link] 
-News Use Across Social Media Platforms 2016. [link]  |  
-| 2 | Jan 12 | Social publishing|
+News Use Across Social Media Platforms 2016. [link]  |
+
+| Week | Date | Topic | 
+|------|------|-------|
+| 2 | Jan 12 | Social publishing |
 •	LB Ch08: The Art & Science of Social Publishing, 
 •	LB Ch09: Managing a Community, 
-•	LB Ch10: Jump into Any News Story,|
+•	LB Ch10: Jump into Any News Story
+| Week | Date | Topic | 
+|------|------|-------|
 | 3 | Jan 19 | Social media marketing |
 •	LB Ch11: Distribution, Application, and Promotion 
 •	LB Ch12: The Rise of Visual Reporting 
@@ -239,7 +245,7 @@ April 8
 30%
 
 
-** Notes about assignments:**
+**Notes about assignments:**
 •	All written assignments must be submitted before 11:55 pm of a respective assignment date;
 •	Students are expected to prepare slides for assignment 1 and share with instructor by 12:00/noon the day after their presentation.
 •	Assignment 3 must be submitted in the form of an iPython notebook. Support will be provided on how to create notebooks;
@@ -247,42 +253,42 @@ April 8
 •	All submitted files should be labeled with your last name(s) followed by an underscore and an assignment code. Assignment codes are two digit numbers, e.g., “assignment01,” “asignment02,” etc.  
 o	For example: “abdul-mageed_assignment01.ipynb” 
 
-** Assignments in Detail**
+**Assignments in Detail**
 
-** Assignment 1:** Class presentation
+**Assignment 1:** Class presentation
 Each student is expected to present once during the course of the semester. For this assignment, each student will choose one or more papers and/or book chapters in consultation with the instructor. The student will then be responsible for preparing slides (e.g., Microsoft PowerPoint or pdf format) for the content and presenting to class in one of the class sessions. The following criteria are required for the presentation:
 •	Students are expected to submit their slides to the instructor by 5:00 pm the day before the presentation is due. The instructor will then make the slides available to the whole class.
 •	 Students are encouraged to rehearse two-to-three times before presenting in class, make use of body language, use illustrative examples and visualizations, and deliver their presentation in the assigned time.
 
-** Grading:** Grading for this assignment will be based on content, presentation skills, clarity of presentation, and ability to answer questions. 
+**Grading:** Grading for this assignment will be based on content, presentation skills, clarity of presentation, and ability to answer questions. 
 
-** Deliverables:** Presentation slides and actual presentation 
+**Deliverables:** Presentation slides and actual presentation 
 Students are expected to submit their slides to instructor and deliver the presentation in class to satisfy this requirement.
 
-** Assignment 2:** Personal readings journal
+**Assignment 2:** Personal readings journal
 Students are required to keep a personal readings journal where you summarize and reflect on the weekly readings. The journal should be a single Word document that you update with the new content every week. Each week’s log can be in the range of 300-400 words summarizing the main ideas of the readings. Many of the papers we read apply different marketing, management, and/or mining methods and for each of these you are expected summarize the main points the author makes. For example, for an intelligence task, you are expected to identify the social concept (e.g., emotion), the way it is operationalized, the basic idea of a method used, the datasets exploited, and the results acquired. In addition, you are expected to engage critically by possibly identifying limitations and extensions you can think of. The personal readings journal is meant to keep you involved throughout the course of the term. You are also expected to participate in discussions in class, based on your readings and the journal should help with this regard. You are expected to have a total of 10 logs in the journal, corresponding to the readings of the first 10 weeks. Each week’s log is only accepted if you attend class. If you miss a class, this automatically means you are not allowed to update/submit a log for the session/sessions you missed. As such, failure to attend class without a necessary excuse (e.g., a sickness or another emergency) will result in a lower class grade. 
 
-** Deliverables:** A personal readings journal
+**Deliverables:** A personal readings journal
 A total of 10 logs in a single Word document.
 
-** Assignment 3:** Analysis and evaluation of a professional social media source
+**Assignment 3:** Analysis and evaluation of a professional social media source
 For this assignment, students are expected to use a rubric that will be provided by the instructor as a basis for conducting a content analysis of a social media source of their choice. The source can be one or more of the social media accounts of a library, museum, company, school, or any other organization. The rubric will guide you for analyzing the social media outlet of the organization (e.g., the Twitter account of the Vancouver Public Library https://twitter.com/VPL) in terms of, for example, frequency and time of postings, media used, interaction with users, topics of posts, network (e.g., which users are followed). Based on your analysis, you are expected to provide a critical evaluation of the extent to which an organization is successful in employing social media to reach its goal, including compared to similar organizations. As a result of your evaluation, you should include a section of recommendations to improve the performance of the organization on the social media platform you analyzed.
 
-** Deliverables:** A critical analysis and evaluation of a professional social media outlet (~ 2000 words)
+**Deliverables:** A critical analysis and evaluation of a professional social media outlet (~ 2000 words)
 For this assignment, students are required to provide a written report with their analysis and evaluation. The evaluation should be supported by quantitative evidence as well as a qualitative appraisal of the performance of the source. You should include a brief introduction, follow by the analysis and evaluation (you have the freedom to thematically organize the analysis and evaluation into different subsection), a section on recommendations as described above, and a conclusion. You are expected to follow norms of academic writing and document and support your claims by academic and professional references. You are also encouraged to make use of Tables, figures, screenshots, and visualizations.
 
-** Assignment 4:** A practical intelligence task
+**Assignment 4:** A practical intelligence task
 This is an exercise involving application of the methods you are trained on in class. For this assignment, you will be given a data set and a practical task to execute. For example, may be provided a dataset labeled with sentiment tags to build a simple, rule-based system to detect the sentiment. You will be trained in class on similar tasks. Python example code related to similar tasks will be shared by instructor and discussed with class. Once you are done with this assignment, you are expected to submit the code you wrote as well as a short written description (in a pdf document) of your approach to solving the problem.
 
-** The following criteria is required for this assignment:**
+**The following criteria is required for this assignment:**
 
 •	You must run your code before submitting, and ensure it is working. Also, you should provide the output of the code itself. For code that writes to a file, you are required to deliver the output files as well.
 •	For each problem, in addition to your code, you should provide explanatory Python comments as appropriate. Your comments should be short and to-the-point. As a programmer, you should develop a sense as to when to use comments and when not. This requirement is meant to teach you about using comments. Using comments will be discussed in class and feedback on your deliverables will be provided. 
 
-** Deliverables:** Written description + iPython notebooks with code
+**Deliverables:** Written description + iPython notebooks with code
 •	For each of assignment 1 and assignment 2, you are required to submit a written description (~ 2000 words) and an iPython notebook including your code and relevant narratives/comments, etc.
 
-** Assignment 5:** Term Project
+**Assignment 5:** Term Project
 The purposes of this assignment include:
 •	Identifying, analyzing, assessing, and solving a problem via use of social media data;
 •	Applying social media intelligence methods to a practical task of your choice, after consultation with the instructor;
@@ -293,7 +299,7 @@ For this assignment, each student is required to work as part of a group of of 2
 
 * A group of a different size may be possible after consultation with the instructor.
 
-** Deliverables** 
+**Deliverables** 
 Proposal (500-700 words)
 •	Who are the the group members?
 •	What are you mining?
@@ -303,10 +309,10 @@ Proposal (500-700 words)
 •	How does the work bread down and what each member of the team be contributing?
 •	Timeline for completing the project, including goals for each segment.
 
-** Poster** 
+**Poster** 
 Each team will prepare a poster to present their final project to the class. Each student is required to participate in the poster preparation and the poster session. Your poster should first motivate your work, explaining its significance and audience, and how it compares to previous research. The team should then explain the various steps the work involved and the final outcome and its functionality. More details about scheduling and poster session place will be provided and discussed toward the end of the semester.
 
-** Final Report/Paper (4000-6000 words)** 
+**Final Report/Paper (4000-6000 words)** 
 The final deliverable should include:
 •	A detailed and clear description of your project, including the necessary sections, as appropriate. For example, you will need to include an abstract, introduction, research questions, a literature review, a description of datasets, implementation details and methods employed, results, and a conclusion involving limitations and future directions;
 •	All relevant code;
@@ -318,13 +324,13 @@ The final deliverable should include:
 
 ## 9. Course Policies
 
-** Attendance:** The UBC calendar states: “Regular attendance is expected of students in all their classes (including lectures, laboratories, tutorials, seminars, etc.). Students who neglect their academic work and assignments may be excluded from the final examinations. Students who are unavoidably absent because of illness or disability should report to their instructors on return to classes.”
+**Attendance:** The UBC calendar states: “Regular attendance is expected of students in all their classes (including lectures, laboratories, tutorials, seminars, etc.). Students who neglect their academic work and assignments may be excluded from the final examinations. Students who are unavoidably absent because of illness or disability should report to their instructors on return to classes.”
 
-** Evaluation:** All assignments will be marked using the evaluative criteria given in this syllabus and also those provided on the SLAIS web site. 
+**Evaluation:** All assignments will be marked using the evaluative criteria given in this syllabus and also those provided on the SLAIS web site. 
 
-** Written & Spoken English Requirement:** Written and spoken work may receive a lower mark if it is, in the opinion of the instructor, deficient in English. 
+**Written & Spoken English Requirement:** Written and spoken work may receive a lower mark if it is, in the opinion of the instructor, deficient in English. 
 
-** Access & Diversity:** Access & Diversity works with the University to create an inclusive living and learning environment in which all students can thrive. The University accommodates students with disabilities who have registered with the Access and Diversity unit: [http://www.students.ubc.ca/access/drc.cfm]. You must register with the Disability Resource Centre to be granted special accommodations for any on-going conditions. 
+**Access & Diversity:** Access & Diversity works with the University to create an inclusive living and learning environment in which all students can thrive. The University accommodates students with disabilities who have registered with the Access and Diversity unit: [http://www.students.ubc.ca/access/drc.cfm]. You must register with the Disability Resource Centre to be granted special accommodations for any on-going conditions. 
 ** Religious Accommodation:** The University accommodates students whose religious obligations conflict with attendance, submitting assignments, or completing scheduled tests and examinations. Please let your instructor know in advance, preferably in the first week of class, if you will require any accommodation on these grounds. Students who plan to be absent for varsity athletics, family obligations, or other similar commitments, cannot assume they will be accommodated, and should discuss their commitments with the instructor before the course drop date. UBC policy on Religious Holidays: http://www.universitycounsel.ubc.ca/policies/policy65.pdf.
 
 ## Academic Integrity
