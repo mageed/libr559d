@@ -28,19 +28,19 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 
 **Potential audiences for this course include, but are not limited to:** 
 
-•	People interested in text analytics, information retrieval, information visualization, human-information interaction, natural language processing, machine learning, etc., who want to prepare for, or significantly advance, carrying out research in these fields.
-•	People interested in practical experience on effective usage, management, analytics, and mining of social media in work places (e.g., libraries, museums, companies).
+- People interested in text analytics, information retrieval, information visualization, human-information interaction, natural language processing, machine learning, etc., who want to prepare for, or significantly advance, carrying out research in these fields.
+- People interested in practical experience on effective usage, management, analytics, and mining of social media in work places (e.g., libraries, museums, companies).
 
 ## 2.	Course Objectives:  
 
 **Upon completion of this course students will be able to:** 
 
-•	Understand a wide range of social media usage, management, and mining concepts and tasks and their relevance to the information needs of diverse individuals, communities and organizations. [1.1]
-•	Enhance interpersonal and written communication skills. [2.1]
-•	Collaborate effectively with peers through course assignments. [3.1]
-•	Apply social media marketing, management, and mining methods to address information needs, questions, and issues. [4.1]
+- Understand a wide range of social media usage, management, and mining concepts and tasks and their relevance to the information needs of diverse individuals, communities and organizations. [1.1]
+- Enhance interpersonal and written communication skills. [2.1]
+- Collaborate effectively with peers through course assignments. [3.1]
+- Apply social media marketing, management, and mining methods to address information needs, questions, and issues. [4.1]
 
-**3.	Course Topics:** 
+## 3.Course Topics:
 
 - Overview of social media types and use and their role;
 - Running social media systems and campaigns
@@ -48,15 +48,15 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 - Virality and engagement in social media
 - Social data crawling and engineering;
 - Predictive analytics with natural language processing & machine learning;
-- Practical social media intelligence tasks:
+- **Practical social media intelligence tasks:**
 - Age and gender detection;
-*Sentiment analysis and emotion detection*
-*Personality prediction;*
-*Sarcasm, humor, and occupational class detection;*
+- Sentiment analysis and emotion detection;
+- Personality prediction;
+- Sarcasm, humor, and occupational class detection;
 
 ##  4.	Prerequisites: 
 
-- MLIS and Dual MAS/MLIS: Completion of MLIS Core or permission of SLAIS Graduate Advisor 
+- **MLIS and Dual MAS/MLIS:** Completion of MLIS Core or permission of SLAIS Graduate Advisor 
 - Access to a computer: There will be machines in the lab where class is held, but you will need to use your own machine or have access to a machine on a regular basis. You should make your own arrangements for this.
 
 ## 5.	Format of the course: 
