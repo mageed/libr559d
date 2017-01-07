@@ -2,20 +2,19 @@
 ## The School of Library, Archival and Information Studies (SLAIS)
 ## The University of British Columbia
 
-|        |    |
 |--------|----|
-|** Course title:**|  Social Media Intelligence|
-|** Course Code:**| LIBR 559D|
-|** Program:** | MLIS, Dual|
-|** Year:**|  Winter Session II 2017|
-|** Time:**|  Mon. 9:00pm-11:50pm|
-|** Location:**|  SLAIS Terrace Lab| 
-|** Instructor:**|  Dr. Muhammad Abdul-Mageed|
-|** Office location:** | 494|
-|** Office phone:**|  6048-274-530|
-|** Office hours:**|  Mon., 1:00pm-3:00pm|
-|** E-mail address:** | muhammad.mageed@ubc.ca|
-|** iSchool@UBC Student Portal:** | http://connect.ubc.ca|
+|Course title:|  Social Media Intelligence|
+|Course Code:| LIBR 559D|
+|Program: | MLIS, Dual|
+|Year:|  Winter Session II 2017|
+|Time:|  Mon. 9:00pm-11:50pm|
+|Location:|  SLAIS Terrace Lab| 
+| Instructor:|  Dr. Muhammad Abdul-Mageed|
+|Office location:| 494|
+|Office phone:|  6048-274-530|
+|Office hours:|  Mon., 1:00pm-3:00pm|
+|E-mail address: | muhammad.mageed@ubc.ca|
+|iSchool@UBC Student Portal:| http://connect.ubc.ca|
 
 
 ## 1.	Course Rationale & Goal: 
