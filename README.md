@@ -186,11 +186,13 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 
 | Week | Date | Topic | 
 |------|------|-------|
-| Feb 13 | No class | |
-|7 | Feb 20 | Social data crawling and annotation |
+| Feb 13 | Social data crawling and annotation | |
 - Abdul-Mageed, M., & Diab, M. (2012). AWATIF: A multi-genre corpus for Modern Standard Arabic subjectivity and sentiment analysis. Proceedings of LREC, Istanbul, Turkey. [pdf] 
-- Abdul-Mageed, M. & Diab, M. (2011). Subjectivity and Sentiment Annotation of Modern Standard Arabic Newswire. Proceedings of the the Fourth Linguistic Annotation Workshop. Portland, Oregon, USA, June 23-24, 2011. [pdf] [bib]  
+- Abdul-Mageed, M. & Diab, M. (2011). Subjectivity and Sentiment Annotation of Modern Standard Arabic Newswire. Proceedings of the the Fourth Linguistic Annotation Workshop. Portland, Oregon, USA, June 23-24, 2011. [pdf] [bib]  
 - Polanyi, L., & Zaenen, A. (2006). Contextual valence shifters. Computing attitude and affect in text: Theory and applications, 1-10. [pdf] 
+
+|7 | Feb 20 | No Class |
+
 
 | Week | Date | Topic | 
 |------|------|-------|
