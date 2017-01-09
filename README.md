@@ -67,7 +67,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 
 **Books:** 
 
-- Buyer, L. (2013). Social PR Secrets: How to Optimize, Socialize, and Publicize Your Brand's News (2nd ed.). ISBN-10: 1938886852, ISBN-13: 978-1938886850. 
+- Buyer, L. (2013). Social PR Secrets: How to Optimize, Socialize, and Publicize Your Brand's News (3rd ed.). ISBN-10: 1938886852, ISBN-13: 978-1938886850. 
 - Nahon, K., & Hemsley, J. (2013). Going viral. Polity. ISBN-10: 0745671284, ISBN-13: 978-0745671284 
 - Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python. O'Reilly Media, Inc. [[link](http://www.nltk.org/book/)]
 
