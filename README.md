@@ -294,7 +294,7 @@ This is an exercise involving application of the methods you are trained on in c
 - For each problem, in addition to your code, you should provide explanatory Python comments as appropriate. Your comments should be short and to-the-point. As a programmer, you should develop a sense as to when to use comments and when not. This requirement is meant to teach you about using comments. Using comments will be discussed in class and feedback on your deliverables will be provided. 
 
 **Deliverables:** Written description + iPython notebooks with code
-- For each of assignment 1 and assignment 2, you are required to submit a written description (~ 2000 words) and an iPython notebook including your code and relevant narratives/comments, etc.
+- For each of assignments 3 and assignment 4, you are required to submit a written description (~ 2000 words) and an iPython notebook including your code and relevant narratives/comments, etc.
 
 **Assignment 5:** Term Project
 The purposes of this assignment include:
