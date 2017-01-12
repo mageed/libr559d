@@ -229,7 +229,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 13 | Apr 3 | Applications IV: Sarcasm, Humor, & Occupational Class |
+| 13 | Apr 3 | Muhammad at a conference -- Applications IV: Sarcasm, Humor, & Occupational Class |
 - Davidov, D., Tsur, O., Rappoport, A. (2010). Semi-supervised recognition of sarcastic sentences in Twitter and Amazon. Proc. of the Fourteenth Conference on Computational Natural Language Learning, pp. 107-116. [pdf]
 - Gonzalez-Ibanez, R., Muresan, S., & Wacholder, N. (2011). Identifying sarcasm in Twitter: a closer look. Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies: short papers-Volume 2 (pp. 581-586). [pdf]
 - Bamman, D., & Smith, N. A. (2015, April). Contextualized Sarcasm Detection on Twitter. In Ninth International AAAI Conference on Web and Social Media. [pdf]
