@@ -140,106 +140,127 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 
 | Week | Date | Topic | 
 |------|------|-------|
-|1 |Jan 9| Course overview; Intro. to social media systems, types, and use | 
+|1 |Jan 9| **Course overview; Intro. to social media intelligence/mining** | 
 - Abdul-Mageed, M. (2016). Social Media Mining: Introduction. [Document to be shared with students]
-- Boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. [[link](http://jcmc.indiana.edu/vol13/issue1/boyd.ellison.html)]
-- Social Media Usage: 2005-2015. [[link](http://www.pewinternet.org/2015/10/08/social-networking-usage-2005-2015/)] 
-- News Use Across Social Media Platforms 2016. [[link](http://www.journalism.org/2016/05/26/news-use-across-social-media-platforms-2016/)] 
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 2 | Jan 16 | Social publishing |
+| 2 | Jan 16 | ** Social publishing**  |
+*Social Network Sites:*
+- Boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. [[link](http://jcmc.indiana.edu/vol13/issue1/boyd.ellison.html)]
+- Social Media Usage: 2005-2015. [[link](http://www.pewinternet.org/2015/10/08/social-networking-usage-2005-2015/)] 
+- News Use Across Social Media Platforms 2016. [[link](http://www.journalism.org/2016/05/26/news-use-across-social-media-platforms-2016/)] 
+*Social Publishing:*
 - LB Ch08: The Art & Science of Social Publishing, 
 - LB Ch09: Managing a Community, 
 - LB Ch10: Jump into Any News Story
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 3 | Jan 23 | Social media marketing |
+| 3 | Jan 23 | ** Social media marketing & management**  |
 - LB Ch11: Distribution, Application, and Promotion 
 - LB Ch12: The Rise of Visual Reporting 
 - LB Ch13: Scoring Influence 
+- The 15 Best Free Social Media Dashboards and Tools Read more. [link] 
 
-| Week | Date | Topic | 
-|------|------|-------|
-| 4 | Jan 30 |Social media management |
-- The 15 Best Free Social Media Dashboards and Tools Read more. [link] 
+*Further Readings:*
 - 9 Social Media Dashboards To Manage Multiple Social Media Profiles. [link]
 - The 15 Best Free Social Media Dashboards and Tools. [link]
-- The Guardian: How riot rumours spread on Twitter. [link]
-- Behind the rumours: how we built our Twitter riots interactive. [link]
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 5 | Feb 6 | Virality and engagement strategies |
-- KN Ch3, Ch04, Ch05
-- Essay: 13 Ways to Make Something Go Viral. [link]
-- The Six Things That Make Stories Go Viral Will Amaze, and Maybe Infuriate, You. [link]
-- Engaging Communities: Content and Conversation. [link] 
-- What kinds of local stories drive engagement? The results of an NPR Facebook experiment. [link]
-- Why You Should Share to Social Media in the Afternoon + More of the Latest Social Media Research. [link]  
+| 4 | Jan 30 | **Introduction to social media analytics with NLP** |
+- BKL Ch01-Ch04.
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 6 | Feb 9 | Introduction to social media analytics with NLP |
-- BKL Ch01-Ch04. 
-
-| Week | Date | Topic | 
-|------|------|-------|
-| Feb 13 | Social data crawling and annotation | |
+| 5 | Feb 6 | **Social data crawling and annotation**  | |
 - Abdul-Mageed, M., & Diab, M. (2012). AWATIF: A multi-genre corpus for Modern Standard Arabic subjectivity and sentiment analysis. Proceedings of LREC, Istanbul, Turkey. [pdf] 
 - Abdul-Mageed, M. & Diab, M. (2011). Subjectivity and Sentiment Annotation of Modern Standard Arabic Newswire. Proceedings of the the Fourth Linguistic Annotation Workshop. Portland, Oregon, USA, June 23-24, 2011. [pdf] [bib]  
 - Polanyi, L., & Zaenen, A. (2006). Contextual valence shifters. Computing attitude and affect in text: Theory and applications, 1-10. [pdf] 
 
+| Week | Date | Topic | 
+|------|------|-------|
+| 6 | Feb 13 | **Virality & Misinformation / Fake News**  | |
+ 
+- KN Ch3, Ch04, Ch05
+- The Guardian: How riot rumours spread on Twitter. [link]
+
+*Further Readings:*
+- Behind the rumours: how we built our Twitter riots interactive. [link]
+- Essay: 13 Ways to Make Something Go Viral. [link]
+- The Six Things That Make Stories Go Viral Will Amaze, and Maybe Infuriate, You. [link]
+- Engaging Communities: Content and Conversation. [link] 
+- What kinds of local stories drive engagement? The results of an NPR Facebook experiment. [link]
+- Why You Should Share to Social Media in the Afternoon + More of the Latest Social Media Research. [link]
+ 
+| Week | Date | Topic | 
+|------|------|-------|
 |7 | Feb 20 | No Class |
 
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 8 | Feb 27 | Predictive analytics I |
+| 8 | Feb 27 | **Predictive analyticsI**  |
 - BKL Ch05. 
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 9 | Mar 6 | Predictive analytics II |
+| 9 | Mar 6 | **Predictive analytics II**  |
 - BKL Ch05. 
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 10 | Mar 13 | Applications I: Age & Gender |
+| 10 | Mar 13 | Applications I: **Sentiment** |
+- Pang, Bo and Lillian Lee. 2008. Opinion mining and sentiment analysis. Foundations and Trends in Information Retrieval 2(1): 1-135. (Chapters 4 & 5).
+- Liu, B. 2009. Sentiment Analysis and Subjectivity. Handbook of Natural Language Processing, Second Edition,(editors: N. Indurkhya and FJ Damerau). 
+
+
+| Week | Date | Topic | 
+|------|------|-------|
+| 11 | Mar 20 | Applications II: **Emotion** |
+
+- Saima Aman and Stan Szpakowicz. 2007. Identifying expressions of emotion in text. In Vclav Matouˇsek and Pavel Mautner, editors, Text, Speech and Dialogue, volume 4629 of Lecture Notes in Computer Science, pages 196-205. Springer Berlin / Heidelberg. [pdf] 
+ 
+
+| Week | Date | Topic | 
+|------|------|-------|
+| 12 | Mar 27 | Applications III: **Age & Gender**  |
+
 - Rangel, F., Rosso, P., Moshe Koppel, M., Stamatatos, E., & Inches, G. (2013). Overview of the author profiling task at PAN 2013. In CLEF Conference on Multilingual and Multimodal Information Access Evaluation (pp. 352-365). CELCT. [pdf]
 - Burger, J. D., Henderson, J., Kim, G., & Zarrella, G. (2011, July). Discriminating gender on Twitter. In Proceedings of the Conference on Empirical Methods in Natural Language Processing (pp. 1301-1309). Association for Computational Linguistics. [pdf]
 - Ciot, M., Sonderegger, M., & Ruths, D. (2013). Gender Inference of Twitter Users in Non-English Contexts. In EMNLP (pp. 1136-1145). [pdf]
 - Bamman, D., Eisenstein, J., & Schnoebelen, T. (2014). Gender identity and lexical variation in social media. Journal of Sociolinguistics, 18(2), 135-160. [Oncourse]
-- Johannsen, A., Hovy, D., & Sogaard, A. (2015, July). Cross-lingual syntactic variation over age and gender. In Proceedings of CoNLL. [pdf] 
+- Johannsen, A., Hovy, D., & Sogaard, A. (2015, July). Cross-lingual syntactic variation over age and gender. In Proceedings of CoNLL. [pdf]
+
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 11 | Mar 20 | Applications II: Sentiment & Emotion |
-- Pang, Bo and Lillian Lee. 2008. Opinion mining and sentiment analysis. Foundations and Trends in Information Retrieval 2(1): 1-135. (Chapters 4 & 5).
-- Liu, B. 2009. Sentiment Analysis and Subjectivity. Handbook of Natural Language Processing, Second Edition,(editors: N. Indurkhya and FJ Damerau). 
-- Saima Aman and Stan Szpakowicz. 2007. Identifying expressions of emotion in text. In Vclav Matouˇsek and Pavel Mautner, editors, Text, Speech and Dialogue, volume 4629 of Lecture Notes in Computer Science, pages 196-205. Springer Berlin / Heidelberg. [pdf] 
+| 13 | Apr 3 | Muhammad at a conference | 
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 12 | Mar 27 | Applications III: Personality |
+| 14 | Apr 10 |  **Presentations** |
+
+
+**Further Readings:**
+
+*Personality:*
+
 - Youyou, W., Kosinski, M., & Stillwell, D. (2015). Computer-based personality judgments are more accurate than those made by humans. Proceedings of the National Academy of Sciences, 201418680. [pdf]
 - Farnadi, G., Sitaraman, G., Rohani, M., Kosinski, M., Stillwell, D., Moens, M. F., ... & De Cock, M. (2014). How are you doing? Emotions and personality in Facebook. In Proceedings of the EMPIRE Workshop of the 22nd International Conference on User Modeling, Adaptation and Personalization (UMAP 2014). [pdf]
 - Schwartz, H. A., Eichstaedt, J. C., Kern, M. L., Dziurzynski, L., Ramones, S. M., Agrawal, M., ... & Ungar, L. H. (2013). Personality, gender, and age in the language of social media: The open-vocabulary approach. PloS one, 8(9), e73791. [pdf] 
 
-| Week | Date | Topic | 
-|------|------|-------|
-| 13 | Apr 3 | Muhammad at a conference -- Applications IV: Sarcasm, Humor, & Occupational Class |
+*Sarcasm, Humor, & Occupational Class:*
+
 - Davidov, D., Tsur, O., Rappoport, A. (2010). Semi-supervised recognition of sarcastic sentences in Twitter and Amazon. Proc. of the Fourteenth Conference on Computational Natural Language Learning, pp. 107-116. [pdf]
 - Gonzalez-Ibanez, R., Muresan, S., & Wacholder, N. (2011). Identifying sarcasm in Twitter: a closer look. Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies: short papers-Volume 2 (pp. 581-586). [pdf]
 - Bamman, D., & Smith, N. A. (2015, April). Contextualized Sarcasm Detection on Twitter. In Ninth International AAAI Conference on Web and Social Media. [pdf]
 - Preoţiuc-Pietro, D., Lampos, V., & Aletras, N. (2015). An analysis of the user occupational class through Twitter content. The Association for Computational Linguistics. [pdf] 
 - Preoţiuc-Pietro, D., Volkova, S., Lampos, V., Bachrach, Y., & Aletras, N. (2015). Studying user income through language, behaviour and affect in social media. PloS one, 10(9), e0138717. [link] 
-- Liu, L., Preotiuc-Pietro, D., Samani, Z. R., Moghaddam, M. E., & Ungar, L. (2016). Analyzing Personality through Social Media Profile Picture Choice. ICWSM 2016. [pdf]  
+- Liu, L., Preotiuc-Pietro, D., Samani, Z. R., Moghaddam, M. E., & Ungar, L. (2016). Analyzing Personality through Social Media Profile Picture Choice. ICWSM 2016. [pdf] 
 
-| Week | Date | Topic | 
-|------|------|-------|
-| 14 | Apr 10 |  Poster presentations |
+
 
 ## 8. Course Assignments:
 
