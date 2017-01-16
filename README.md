@@ -199,14 +199,14 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 |7 | Feb 20 | **Mid-Term Break** (No Class) |
 
 
-| Week | Date | Topic | 
-|------|------|-------|
-| 8 | Feb 27 | **Predictive analytics I**  |
+| Week | Date | Topic | Due?|
+|------|------|-------|----|
+| 8 | Feb 27 | **Predictive analytics I**  | ASSIGNMENT 4 |
 - BKL Ch05. 
 
-| Week | Date | Topic | Due? |
-|------|------|-------|------|
-| 9 | Mar 6 | **Predictive analytics II**  | ASSIGNMENT 4 |
+| Week | Date | Topic |
+|------|------|-------|
+| 9 | Mar 6 | **Predictive analytics II**  |
 - BKL Ch05. 
 
 | Week | Date | Topic | 
@@ -266,7 +266,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 | ASSIGNMENT 1: Class presentation| 10% |
 | ASSIGNMENT 2: Personal readings journal | Throughout first 10 weeks | 10% |
 | ASSIGNMENT 3: Analysis and evaluation of a professional social media source | Feb. 6 | 15%
-| ASSIGNMENT 4: A practical intelligence task | March 6 | 20% |
+| ASSIGNMENT 4: A practical intelligence task | Feb. 27 | 20% |
 | ASSIGNMENT 5: Term Project (GROUP) | | 
 | Proposal | March 8 | 5% |
 | Report/Product | April 8 | 40%|
