@@ -201,7 +201,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 8 | Feb 27 | **Predictive analyticsI**  |
+| 8 | Feb 27 | **Predictive analytics I**  |
 - BKL Ch05. 
 
 | Week | Date | Topic | 
@@ -211,21 +211,21 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 10 | Mar 13 | Applications I: **Sentiment** |
+| 10 | Mar 13 | **Applications I: Sentiment** |
 - Pang, Bo and Lillian Lee. 2008. Opinion mining and sentiment analysis. Foundations and Trends in Information Retrieval 2(1): 1-135. (Chapters 4 & 5).
 - Liu, B. 2009. Sentiment Analysis and Subjectivity. Handbook of Natural Language Processing, Second Edition,(editors: N. Indurkhya and FJ Damerau). 
 
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 11 | Mar 20 | Applications II: **Emotion** |
+| 11 | Mar 20 | **Applications II: Emotion** |
 
 - Saima Aman and Stan Szpakowicz. 2007. Identifying expressions of emotion in text. In Vclav Matouˇsek and Pavel Mautner, editors, Text, Speech and Dialogue, volume 4629 of Lecture Notes in Computer Science, pages 196-205. Springer Berlin / Heidelberg. [pdf] 
  
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 12 | Mar 27 | Applications III: **Age & Gender**  |
+| 12 | Mar 27 | **Applications III: Age & Gender**  |
 
 - Rangel, F., Rosso, P., Moshe Koppel, M., Stamatatos, E., & Inches, G. (2013). Overview of the author profiling task at PAN 2013. In CLEF Conference on Multilingual and Multimodal Information Access Evaluation (pp. 352-365). CELCT. [pdf]
 - Burger, J. D., Henderson, J., Kim, G., & Zarrella, G. (2011, July). Discriminating gender on Twitter. In Proceedings of the Conference on Empirical Methods in Natural Language Processing (pp. 1301-1309). Association for Computational Linguistics. [pdf]
@@ -236,7 +236,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 13 | Apr 3 | Muhammad at a conference | 
+| 13 | Apr 3 | **Muhammad at EACL** | 
 
 
 
