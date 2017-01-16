@@ -151,9 +151,9 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 - Social Media Usage: 2005-2015. [[link](http://www.pewinternet.org/2015/10/08/social-networking-usage-2005-2015/)] 
 - News Use Across Social Media Platforms 2016. [[link](http://www.journalism.org/2016/05/26/news-use-across-social-media-platforms-2016/)] 
 *Social Publishing:*
-- LB Ch08: The Art & Science of Social Publishing, 
-- LB Ch09: Managing a Community, 
-- LB Ch10: Jump into Any News Story
+- LB Ch07: The Art & Science of Social Publishing, 
+- LB Ch08: Managing a Community, 
+- LB Ch9: Jump into Any News Story
 
 | Week | Date | Topic | 
 |------|------|-------|
