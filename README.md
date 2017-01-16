@@ -265,8 +265,8 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 |------|------|-------|
 | ASSIGNMENT 1: Class presentation| 10% |
 | ASSIGNMENT 2: Personal readings journal | Throughout first 10 weeks | 10% |
-| ASSIGNMENT 3: Analysis and evaluation of a professional social media source | Feb. 2 | 15%
-| ASSIGNMENT 4: A practical intelligence task | March 1 | 20% |
+| ASSIGNMENT 3: Analysis and evaluation of a professional social media source | Feb. 6 | 15%
+| ASSIGNMENT 4: A practical intelligence task | March 6 | 20% |
 | ASSIGNMENT 5: Term Project (GROUP) | | 
 | Proposal | March 8 | 5% |
 | Report/Product | April 8 | 40%|
