@@ -181,7 +181,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 
 | Week | Date | Topic | Due? |
 |------|------|-------|------|
-| 6 | Feb 13 | **Virality & Misinformation / Fake News**  | ASSIGNMENT 3 |
+| 6 | Feb 13 | **Virality & Misinformation / Fake News**  | ASSIGNMENT 3 | |
  
 - KN Ch3, Ch04, Ch05
 - The Guardian: How riot rumours spread on Twitter. [[link](http://www.theguardian.com/uk/interactive/2011/dec/07/london-riots-twitter)]
