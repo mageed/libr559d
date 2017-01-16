@@ -269,8 +269,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 | ASSIGNMENT 4: A practical intelligence task | March 1 | 20% |
 | ASSIGNMENT 5: Term Project (GROUP) | | 
 | | Proposal | March 8 | 5% |
-| | Poster  | April 5 | 10% |
-| | Report/Product | April 8 | 30%|
+| | Report/Product | April 8 | 40%|
 
 
 **Notes about assignments:**
@@ -323,7 +322,7 @@ The purposes of this assignment include:
 - Developing oral and written communication skills through discussions with classmates and instructor;
 - Demonstrating ability to work as part of a team, including initiative taking, integrity, dependability and co-operation, and effective collaboration.
 
-For this assignment, each student is required to work as part of a group of of 2/3* on a project involving a practical task and usually a significant amount of coding. Example projects include harvesting Twitter data toward a specific topic and building a system of analysis that identifies people’s views (pros and cons) around the topic (e.g., Syrian refugees, gun control, satisfaction with government performance on a given sector). This can be done via use of sentiment analysis, for example. Students can also choose problems for which a gender comparison is expected to yield interesting insights (e.g., gender differences as to affect, activities, topical interests, language styles, personality). 
+For this assignment, each student is required to work as part of a group of of 2/3\* on a project involving a practical task and usually a significant amount of coding. Example projects include harvesting Twitter data toward a specific topic and building a system of analysis that identifies people’s views (pros and cons) around the topic (e.g., Syrian refugees, gun control, satisfaction with government performance on a given sector). This can be done via use of sentiment analysis, for example. Students can also choose problems for which a gender comparison is expected to yield interesting insights (e.g., gender differences as to affect, activities, topical interests, language styles, personality). 
 
 * A group of a different size may be possible after consultation with the instructor.
 
@@ -336,9 +335,6 @@ For this assignment, each student is required to work as part of a group of of 2
 - What are the different steps you will take to ensure success of the project? What are the smaller segments of which the bigger intelligence task is composed? And how will you conduct each small task?
 - How does the work bread down and what each member of the team be contributing?
 - Timeline for completing the project, including goals for each segment.
-
-**Poster** 
-Each team will prepare a poster to present their final project to the class. Each student is required to participate in the poster preparation and the poster session. Your poster should first motivate your work, explaining its significance and audience, and how it compares to previous research. The team should then explain the various steps the work involved and the final outcome and its functionality. More details about scheduling and poster session place will be provided and discussed toward the end of the semester.
 
 **Final Report/Paper (4000-6000 words)** 
 The final deliverable should include:
