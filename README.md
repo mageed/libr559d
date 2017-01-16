@@ -161,11 +161,11 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 - LB Ch11: Distribution, Application, and Promotion 
 - LB Ch12: The Rise of Visual Reporting 
 - LB Ch13: Scoring Influence 
-- The 15 Best Free Social Media Dashboards and Tools Read more. [link] 
+- The 15 Best Free Social Media Dashboards and Tools Read more. [[link](http://blog.sumall.com/journal/15-best-free-social-media-dashboards-tools.html)] 
 
 *Further Readings:*
-- 9 Social Media Dashboards To Manage Multiple Social Media Profiles. [link]
-- The 15 Best Free Social Media Dashboards and Tools. [link]
+- 9 Social Media Dashboards To Manage Multiple Social Media Profiles. [[link](http://socialmediafuze.com/9-social-media-dashboards-to-manage-multiple-social-media-profiles/)]
+- The 15 Best Free Social Media Dashboards and Tools. [[link](https://www.linkedin.com/pulse/15-best-free-social-media-dashboards-tools-andrea-rufino)]
 
 | Week | Date | Topic | 
 |------|------|-------|
@@ -184,15 +184,15 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 | 6 | Feb 13 | **Virality & Misinformation / Fake News**  | |
  
 - KN Ch3, Ch04, Ch05
-- The Guardian: How riot rumours spread on Twitter. [link]
+- The Guardian: How riot rumours spread on Twitter. [[link](http://www.theguardian.com/uk/interactive/2011/dec/07/london-riots-twitter)]
 
 *Further Readings:*
-- Behind the rumours: how we built our Twitter riots interactive. [link]
-- Essay: 13 Ways to Make Something Go Viral. [link]
-- The Six Things That Make Stories Go Viral Will Amaze, and Maybe Infuriate, You. [link]
-- Engaging Communities: Content and Conversation. [link] 
-- What kinds of local stories drive engagement? The results of an NPR Facebook experiment. [link]
-- Why You Should Share to Social Media in the Afternoon + More of the Latest Social Media Research. [link]
+- Behind the rumours: how we built our Twitter riots interactive. [[link](http://www.theguardian.com/news/datablog/2011/dec/08/twitter-riots-interactive)]
+- Essay: 13 Ways to Make Something Go Viral. [[link](https://web.archive.org/web/20141112083544/http://www.facebookstories.com/stories/1942/essay-13-ways-to-make-something-go-viral)]
+- The Six Things That Make Stories Go Viral Will Amaze, and Maybe Infuriate, You. [[link](http://www.newyorker.com/tech/elements/the-six-things-that-make-stories-go-viral-will-amaze-and-maybe-infuriate-you)]
+- Engaging Communities: Content and Conversation. [[link](http://niemanreports.org/articles/engaging-communities-content-and-conversation/)] 
+- What kinds of local stories drive engagement? The results of an NPR Facebook experiment. [[link](http://www.niemanlab.org/2012/11/what-kinds-of-local-stories-drive-engagement-the-results-of-an-npr-facebook-experiment/)]
+- Why You Should Share to Social Media in the Afternoon + More of the Latest Social Media Research. [[link](https://blog.bufferapp.com/new-social-media-research)]
  
 | Week | Date | Topic | 
 |------|------|-------|
