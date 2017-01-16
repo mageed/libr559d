@@ -172,16 +172,16 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 | 4 | Jan 30 | **Introduction to social media analytics with NLP** |
 - BKL Ch01-Ch04.
 
-| Week | Date | Topic | 
-|------|------|-------|
-| 5 | Feb 6 | **Social data crawling and annotation**  | |
+| Week | Date | Topic | Due? |
+|------|------|-------|------|
+| 5 | Feb 6 | **Social data crawling and annotation**  | ASSIGNMENT 3 |
 - Abdul-Mageed, M., & Diab, M. (2012). AWATIF: A multi-genre corpus for Modern Standard Arabic subjectivity and sentiment analysis. Proceedings of LREC, Istanbul, Turkey. [pdf] 
 - Abdul-Mageed, M. & Diab, M. (2011). Subjectivity and Sentiment Annotation of Modern Standard Arabic Newswire. Proceedings of the the Fourth Linguistic Annotation Workshop. Portland, Oregon, USA, June 23-24, 2011. [pdf] [bib]  
 - Polanyi, L., & Zaenen, A. (2006). Contextual valence shifters. Computing attitude and affect in text: Theory and applications, 1-10. [pdf] 
 
-| Week | Date | Topic | Due? |
-|------|------|-------|------|
-| 6 | Feb 13 | **Virality & Misinformation / Fake News**  | ASSIGNMENT 3 | |
+| Week | Date | Topic | 
+|------|------|-------|
+| 6 | Feb 13 | **Virality & Misinformation / Fake News**  |
  
 - KN Ch3, Ch04, Ch05
 - The Guardian: How riot rumours spread on Twitter. [[link](http://www.theguardian.com/uk/interactive/2011/dec/07/london-riots-twitter)]
