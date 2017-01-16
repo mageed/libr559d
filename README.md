@@ -204,9 +204,9 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 | 8 | Feb 27 | **Predictive analytics I**  | ASSIGNMENT 4 |
 - BKL Ch05. 
 
-| Week | Date | Topic |
-|------|------|-------|
-| 9 | Mar 6 | **Predictive analytics II**  |
+| Week | Date | Topic | Due|
+|------|------|-------|----|
+| 9 | Mar 6 | **Predictive analytics II**  | Final Project Proposal due|
 - BKL Ch05. 
 
 | Week | Date | Topic | 
@@ -268,7 +268,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 | ASSIGNMENT 3: Analysis and evaluation of a professional social media source | Feb. 6 | 15%
 | ASSIGNMENT 4: A practical intelligence task | Feb. 27 | 20% |
 | ASSIGNMENT 5: Term Project (GROUP) | | 
-| Proposal | March 8 | 5% |
+| Proposal | March 6 | 5% |
 | Report/Product | April 8 | 40%|
 
 
