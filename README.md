@@ -145,7 +145,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 2 | Jan 16 | **Social publishing**  |
+| 2 | Jan 16 | **Social network sites & Social publishing**  |
 *Social Network Sites:*
 - Boyd, d. m., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11. [[link](http://jcmc.indiana.edu/vol13/issue1/boyd.ellison.html)]
 - Social Media Usage: 2005-2015. [[link](http://www.pewinternet.org/2015/10/08/social-networking-usage-2005-2015/)] 
