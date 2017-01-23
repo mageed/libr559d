@@ -181,18 +181,10 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 6 | Feb 13 | **Virality & Misinformation / Fake News**  |
+| 6 | Feb 13 | **Family Day (No class)**  |
  
-- KN Ch3, Ch04, Ch05
-- The Guardian: How riot rumours spread on Twitter. [[link](http://www.theguardian.com/uk/interactive/2011/dec/07/london-riots-twitter)]
-
-*Further Readings:*
-- Behind the rumours: how we built our Twitter riots interactive. [[link](http://www.theguardian.com/news/datablog/2011/dec/08/twitter-riots-interactive)]
-- Essay: 13 Ways to Make Something Go Viral. [[link](https://web.archive.org/web/20141112083544/http://www.facebookstories.com/stories/1942/essay-13-ways-to-make-something-go-viral)]
-- The Six Things That Make Stories Go Viral Will Amaze, and Maybe Infuriate, You. [[link](http://www.newyorker.com/tech/elements/the-six-things-that-make-stories-go-viral-will-amaze-and-maybe-infuriate-you)]
-- Engaging Communities: Content and Conversation. [[link](http://niemanreports.org/articles/engaging-communities-content-and-conversation/)] 
-- What kinds of local stories drive engagement? The results of an NPR Facebook experiment. [[link](http://www.niemanlab.org/2012/11/what-kinds-of-local-stories-drive-engagement-the-results-of-an-npr-facebook-experiment/)]
-- Why You Should Share to Social Media in the Afternoon + More of the Latest Social Media Research. [[link](https://blog.bufferapp.com/new-social-media-research)]
+ Watch: [[Social Meida Mining with NLP](https://media.dlib.indiana.edu/media_objects/avalon:23901)]
+ 
  
 | Week | Date | Topic | 
 |------|------|-------|
@@ -201,8 +193,13 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 
 | Week | Date | Topic | Due?|
 |------|------|-------|----|
-| 8 | Feb 27 | **Predictive analytics I**  | ASSIGNMENT 4 |
+| 8 | Feb 27 | **Predictive analytics I & Misinformation**  | ASSIGNMENT 4 |
+
 - BKL Ch05. 
+- The Guardian: How riot rumours spread on Twitter. [[link](http://www.theguardian.com/uk/interactive/2011/dec/07/london-riots-twitter)]
+
+*Further Readings:*
+- Behind the rumours: how we built our Twitter riots interactive. [[link](http://www.theguardian.com/news/datablog/2011/dec/08/twitter-riots-interactive)]
 
 | Week | Date | Topic | Due|
 |------|------|-------|----|
@@ -239,7 +236,6 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 | 13 | Apr 3 | **Muhammad at EACL** | 
 
 
-
 **Further Readings:**
 
 *Personality:*
@@ -257,7 +253,13 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 - Preoţiuc-Pietro, D., Volkova, S., Lampos, V., Bachrach, Y., & Aletras, N. (2015). Studying user income through language, behaviour and affect in social media. PloS one, 10(9), e0138717. [link] 
 - Liu, L., Preotiuc-Pietro, D., Samani, Z. R., Moghaddam, M. E., & Ungar, L. (2016). Analyzing Personality through Social Media Profile Picture Choice. ICWSM 2016. [pdf] 
 
-
+*Virality:*
+- KN Ch3, Ch04, Ch05
+- Essay: 13 Ways to Make Something Go Viral. [[link](https://web.archive.org/web/20141112083544/http://www.facebookstories.com/stories/1942/essay-13-ways-to-make-something-go-viral)]
+- The Six Things That Make Stories Go Viral Will Amaze, and Maybe Infuriate, You. [[link](http://www.newyorker.com/tech/elements/the-six-things-that-make-stories-go-viral-will-amaze-and-maybe-infuriate-you)]
+- Engaging Communities: Content and Conversation. [[link](http://niemanreports.org/articles/engaging-communities-content-and-conversation/)] 
+- What kinds of local stories drive engagement? The results of an NPR Facebook experiment. [[link](http://www.niemanlab.org/2012/11/what-kinds-of-local-stories-drive-engagement-the-results-of-an-npr-facebook-experiment/)]
+- Why You Should Share to Social Media in the Afternoon + More of the Latest Social Media Research. [[link](https://blog.bufferapp.com/new-social-media-research)]
 
 ## 8. Course Assignments:
 
