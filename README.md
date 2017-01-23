@@ -188,7 +188,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
  
 | Week | Date | Topic | 
 |------|------|-------|
-|7 | Feb 20 | **Mid-Term Break** (No Class) |
+|7 | Feb 20 | **Mid-Term Break (No Class)** |
 
 
 | Week | Date | Topic | Due?|
