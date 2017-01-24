@@ -170,7 +170,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 | Week | Date | Topic | 
 |------|------|-------|
 | 4 | Jan 30 | **Introduction to social media analytics with NLP** |
-- BKL Ch01-Ch04.
+- BKL Ch01-Ch04. [[Link](http://www.nltk.org/book/)]
 
 | Week | Date | Topic | Due? |
 |------|------|-------|------|
@@ -195,7 +195,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 |------|------|-------|----|
 | 8 | Feb 27 | **Predictive analytics I & Misinformation**  | ASSIGNMENT 4 |
 
-- BKL Ch05. 
+- BKL Ch05. [[Link](http://www.nltk.org/book/)]
 - The Guardian: How riot rumours spread on Twitter. [[link](http://www.theguardian.com/uk/interactive/2011/dec/07/london-riots-twitter)]
 
 *Further Readings:*
@@ -204,7 +204,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 | Week | Date | Topic | Due|
 |------|------|-------|----|
 | 9 | Mar 6 | **Predictive analytics II**  | Final Project Proposal due|
-- BKL Ch05. 
+- BKL Ch05. [[Link](http://www.nltk.org/book/)]
 
 | Week | Date | Topic | 
 |------|------|-------|
