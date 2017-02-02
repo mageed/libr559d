@@ -81,7 +81,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 - Abdul-Mageed, M. (2016). Social Media Mining: Introduction. [Document to be shared with students]
 - Abdul-Mageed, M., & Diab, M. (2012). AWATIF: A multi-genre corpus for Modern Standard Arabic subjectivity and sentiment analysis. Proceedings of LREC, Istanbul, Turkey. [[pdf](http://www.lrec-conf.org/proceedings/lrec2012/pdf/1057_Paper.pdf)] 
 - Abdul-Mageed, M. & Diab, M. (2011). Subjectivity and Sentiment Annotation of Modern Standard Arabic Newswire. Proceedings of the the Fourth Linguistic Annotation Workshop. Portland, Oregon, USA, June 23-24, 2011. [[pdf](http://www.aclweb.org/anthology/W/W11/W11-0413.pdf)] [[bib](http://www.aclweb.org/anthology/W/W11/W11-0413.bib)]  
-- Polanyi, L., & Zaenen, A. (2006). Contextual valence shifters. Computing attitude and affect in text: Theory and applications, 1-10. [[pdf](http://aaaipress.org/Papers/Symposia/Spring/2004/SS-04-07/SS04-07-020.pdf)]
+- Polanyi, L., & Zaenen, A. (2006). Contextual valence shifters. Computing attitude and affect in text: Theory and applications, 1-10. [[pdf](http://www.aaai.org/Papers/Symposia/Spring/2004/SS-04-07/SS04-07-020.pdf)]
 - Pang, Bo and Lillian Lee. 2008. Opinion mining and sentiment analysis. Foundations and Trends in Information Retrieval 2(1): 1-135. (Chapters 4 & 5).
 - Liu, B. 2009. Sentiment Analysis and Subjectivity. Handbook of Natural Language Processing, Second Edition,(editors: N. Indurkhya and FJ Damerau). 
 - Ekman, P. (1992). An argument for basic emotions. Cognition & emotion, 6(3-4), 169-200. [[pdf](http://www.paulekman.com/wp-content/uploads/2013/07/An-Argument-For-Basic-Emotions.pdf)]
@@ -177,7 +177,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 | 5 | Feb 6 | **Social data crawling and annotation**  | ASSIGNMENT 3 |
 - Abdul-Mageed, M., & Diab, M. (2012). AWATIF: A multi-genre corpus for Modern Standard Arabic subjectivity and sentiment analysis. Proceedings of LREC, Istanbul, Turkey. [pdf] 
 - Abdul-Mageed, M. & Diab, M. (2011). Subjectivity and Sentiment Annotation of Modern Standard Arabic Newswire. Proceedings of the the Fourth Linguistic Annotation Workshop. Portland, Oregon, USA, June 23-24, 2011. [pdf] [bib]  
-- Polanyi, L., & Zaenen, A. (2006). Contextual valence shifters. Computing attitude and affect in text: Theory and applications, 1-10. [pdf] 
+- Polanyi, L., & Zaenen, A. (2006). Contextual valence shifters. Computing attitude and affect in text: Theory and applications, 1-10. [[pdf](http://www.aaai.org/Papers/Symposia/Spring/2004/SS-04-07/SS04-07-020.pdf)] 
 
 | Week | Date | Topic | 
 |------|------|-------|
