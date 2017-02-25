@@ -203,7 +203,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 
 | Week | Date | Topic | Due|
 |------|------|-------|----|
-| 9 | Mar 6 | **Predictive analytics II & Misinformation II **  | Final Project Proposal due|
+| 9 | Mar 6 | **Predictive analytics II & Misinformation II**  | Final Project Proposal due|
 - BKL Ch06. [[Link](http://www.nltk.org/book/)]
 - Zubiaga, A., Liakata, M., Procter, R., Hoi, G. W. S., & Tolmie, P. (2016). Analysing how people orient to and spread rumours in social media by looking at conversational threads. PloS one, 11(3), e0150989. [[link] (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150989&utm_content=buffer5a91c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#pone.0150989.ref008)]
 
