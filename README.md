@@ -210,8 +210,8 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 | Week | Date | Topic | 
 |------|------|-------|
 | 10 | Mar 13 | **Applications I: Sentiment** |
-- Pang, Bo and Lillian Lee. 2008. Opinion mining and sentiment analysis. Foundations and Trends in Information Retrieval 2(1): 1-135. (Chapters 4 & 5).
-- Liu, B. 2009. Sentiment Analysis and Subjectivity. Handbook of Natural Language Processing, Second Edition,(editors: N. Indurkhya and FJ Damerau). 
+- Pang, Bo and Lillian Lee. 2008. Opinion mining and sentiment analysis. Foundations and Trends in Information Retrieval 2(1): 1-135. (Chapters 4 & 5). [pdf in Google Drive]
+- Liu, B. 2009. Sentiment Analysis and Subjectivity. Handbook of Natural Language Processing, Second Edition,(editors: N. Indurkhya and FJ Damerau). [pdf in Google Drive]
 
 
 | Week | Date | Topic | 
