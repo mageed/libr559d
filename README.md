@@ -86,7 +86,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 - Liu, B. 2009. Sentiment Analysis and Subjectivity. Handbook of Natural Language Processing, Second Edition,(editors: N. Indurkhya and FJ Damerau). 
 - Ekman, P. (1992). An argument for basic emotions. Cognition & emotion, 6(3-4), 169-200. [[pdf](http://www.paulekman.com/wp-content/uploads/2013/07/An-Argument-For-Basic-Emotions.pdf)]
 - Ekman, P. (1999). Basic Emotions. In Dalgleish, T., & Power, M. J. (Eds.). (1999). Handbook of cognition and emotion. Chichester,, UK: Wiley. [[pdf](https://www.paulekman.com/wp-content/uploads/2013/07/Basic-Emotions.pdf)]
-- Saima Aman and Stan Szpakowicz. 2007. Identifying expressions of emotion in text. In Vclav Matouˇsek and Pavel Mautner, editors, Text, Speech and Dialogue, volume 4629 of Lecture Notes in Computer Science, pages 196-205. Springer Berlin / Heidelberg. [[pdf](http://www-scf.usc.edu/~saman/pubs/2007-TSD-paper.pdf)]
+- Saima Aman and Stan Szpakowicz. 2007. Identifying expressions of emotion in text. In Vclav Matouˇsek and Pavel Mautner, editors, Text, Speech and Dialogue, volume 4629 of Lecture Notes in Computer Science, pages 196-205. Springer Berlin / Heidelberg. [[pdf](http://ccc.inaoep.mx/~villasen/bib/Identifying%20Expression%20of%20Emotion%20in%20Text.pdf)]
 - Mohammad, S. M., & Turney, P. D. (2013). Crowdsourcing a word-emotion association lexicon. Computational Intelligence, 29(3), 436-465. [[pdf](http://www.researchgate.net/profile/Peter_Turney/publication/256199465_Crowdsourcing_a_Word-Emotion_Association_Lexicon/links/0f31752d68806d6ccd000000.pdf)]
 - Rangel, F., Rosso, P., Moshe Koppel, M., Stamatatos, E., & Inches, G. (2013). Overview of the author profiling task at PAN 2013. In CLEF Conference on Multilingual and Multimodal Information Access Evaluation (pp. 352-365). CELCT. [[pdf](https://riunet.upv.es/bitstream/handle/10251/46636/CLEF2013-AuthorProfiling.pdf?sequence=2)]
 - Burger, J. D., Henderson, J., Kim, G., & Zarrella, G. (2011, July). Discriminating gender on Twitter. In Proceedings of the Conference on Empirical Methods in Natural Language Processing (pp. 1301-1309). Association for Computational Linguistics. [[pdf](http://www.aclweb.org/old_anthology/D/D11/D11-1120.pdf)]
@@ -218,7 +218,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 |------|------|-------|
 | 11 | Mar 20 | **Applications II: Emotion** |
 
-- Saima Aman and Stan Szpakowicz. 2007. Identifying expressions of emotion in text. In Vclav Matouˇsek and Pavel Mautner, editors, Text, Speech and Dialogue, volume 4629 of Lecture Notes in Computer Science, pages 196-205. Springer Berlin / Heidelberg. [pdf] 
+- Saima Aman and Stan Szpakowicz. 2007. Identifying expressions of emotion in text. In Vclav Matouˇsek and Pavel Mautner, editors, Text, Speech and Dialogue, volume 4629 of Lecture Notes in Computer Science, pages 196-205. Springer Berlin / Heidelberg. [[pdf](http://ccc.inaoep.mx/~villasen/bib/Identifying%20Expression%20of%20Emotion%20in%20Text.pdf)] 
  
 
 | Week | Date | Topic | 
