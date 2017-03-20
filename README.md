@@ -226,7 +226,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 | 12 | Mar 27 | **Applications III: Age & Gender**  |
 
 - Rangel, F., Rosso, P., Moshe Koppel, M., Stamatatos, E., & Inches, G. (2013). Overview of the author profiling task at PAN 2013. In CLEF Conference on Multilingual and Multimodal Information Access Evaluation (pp. 352-365). CELCT. [pdf]
-- Burger, J. D., Henderson, J., Kim, G., & Zarrella, G. (2011, July). Discriminating gender on Twitter. In Proceedings of the Conference on Empirical Methods in Natural Language Processing (pp. 1301-1309). Association for Computational Linguistics. [pdf]
+- Burger, J. D., Henderson, J., Kim, G., & Zarrella, G. (2011, July). Discriminating gender on Twitter. In Proceedings of the Conference on Empirical Methods in Natural Language Processing (pp. 1301-1309). Association for Computational Linguistics. [[pdf](http://www.aclweb.org/old_anthology/D/D11/D11-1120.pdf)]
 - Ciot, M., Sonderegger, M., & Ruths, D. (2013). Gender Inference of Twitter Users in Non-English Contexts. In EMNLP (pp. 1136-1145). [pdf]
 - Bamman, D., Eisenstein, J., & Schnoebelen, T. (2014). Gender identity and lexical variation in social media. Journal of Sociolinguistics, 18(2), 135-160. [Google Drive]
 - Johannsen, A., Hovy, D., & Sogaard, A. (2015, July). Cross-lingual syntactic variation over age and gender. In Proceedings of CoNLL. [pdf]
