@@ -245,7 +245,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 
 | Week | Date | Topic | 
 |------|------|-------|
-| 13 | Apr 3 | **Muhammad at EACL** | 
+| 13 | Apr 3 | ** Age, Gender, & Dialect Presentations; Guest Talk on Social Media Management / Muhammad at EACL** | 
 
 
 **Further Readings:**
