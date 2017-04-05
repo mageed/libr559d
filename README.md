@@ -283,7 +283,7 @@ This course provides a graduate-level introduction to Social Media Intelligence 
 | ASSIGNMENT 4: A practical intelligence task | Feb. 27 | 20% |
 | ASSIGNMENT 5: Term Project (GROUP) | | 
 | Proposal | March 6 | 5% |
-| Report/Product | April 8 | 40%|
+| Report/Product | April 14 | 40%|
 
 
 **Notes about assignments:**
